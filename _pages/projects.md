@@ -1,14 +1,13 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: A selection of University of Cambridge courses.
-display_categories: [Cavendish, DAMTP]
+permalink: /teaching/
+description: A selection of University of Cambridge and MIT courses.
 nav: true
-nav_order: 5
+nav_order: 2
+display_categories: [Cavendish, DAMTP, MIT]
 horizontal: false
 ---
-
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -57,4 +56,3 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
