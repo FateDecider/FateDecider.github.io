@@ -15,6 +15,8 @@ tags: []
 categories: []
 
 ---
-# Day 1 in MIT!
+# **Tidal surface states as fingerprints of non-Hermitian nodal knot metals**
 
-This is my first blog post on my website! Congratulations to my students who've stumbled upon this sacred abode, you'll get to follow along my academic journey.
+**Schematic illustration to relate the complex band structure, topological states, and vorticity. Taken from** [https://doi.org/10.1038/s42005-021-00535-1](https://doi.org/10.1038/s42005-021-00535-1 "https://doi.org/10.1038/s42005-021-00535-1")
+
+#### ![](/assets/img/fig-3_-schematic-illustration-to-relate-the-complex-band-structure-topological-states-and-vorticity-_-communications-physics-1.png)
