@@ -13,6 +13,7 @@ description: Non-Hermitian nodal knot metals (NKMs) contain intricate complex-va
   for non-Hermitian NKMs.
 tags: []
 categories: []
+img: assets/img/fig-3_-schematic-illustration-to-relate-the-complex-band-structure-topological-states-and-vorticity-_-communications-physics-1.png
 
 ---
 # **Tidal surface states as fingerprints of non-Hermitian nodal knot metals**
