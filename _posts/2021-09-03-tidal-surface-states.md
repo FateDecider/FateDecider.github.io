@@ -19,4 +19,8 @@ categories: []
 
 **Schematic illustration to relate the complex band structure, topological states, and vorticity. Taken from** [https://doi.org/10.1038/s42005-021-00535-1](https://doi.org/10.1038/s42005-021-00535-1 "https://doi.org/10.1038/s42005-021-00535-1")
 
-#### ![](/assets/img/fig-3_-schematic-illustration-to-relate-the-complex-band-structure-topological-states-and-vorticity-_-communications-physics-1.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/fig-3_-schematic-illustration-to-relate-the-complex-band-structure-topological-states-and-vorticity-_-communications-physics-1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
