@@ -17,8 +17,16 @@ categories: []
 
 Toy model of a Hopf-link Fermi surface. Figure adapted from [https://link.aps.org/doi/10.1103/PhysRevB.103.195125](https://link.aps.org/doi/10.1103/PhysRevB.103.195125 "https://link.aps.org/doi/10.1103/PhysRevB.103.195125")
 
-![](/assets/img/hopf.PNG)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hopf.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Example of real material with multiple nodal linkages in reciprocal space. Figure adapted from [https://link.aps.org/doi/10.1103/PhysRevB.102.035138](https://link.aps.org/doi/10.1103/PhysRevB.102.035138 "https://link.aps.org/doi/10.1103/PhysRevB.102.035138")
 
-![](/assets/img/co2mnga.PNG)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/co2mnga.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>

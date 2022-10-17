@@ -23,4 +23,8 @@ categories: []
 
 Chiral propagating mode traversing along the diagonal boundary of the system. Figure adapted from [https://link.aps.org/doi/10.1103/PhysRevLett.129.140502](https://link.aps.org/doi/10.1103/PhysRevLett.129.140502 "https://link.aps.org/doi/10.1103/PhysRevLett.129.140502")
 
-![](/assets/img/chern.PNG)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/chern.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>

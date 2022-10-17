@@ -14,7 +14,11 @@ redirect: false
 
 Reconstructed bandstructure of a topological chain on a quantum computer hardware. Figure adapted from [https://doi.org/10.1038/s41534-022-00527-1](https://doi.org/10.1038/s41534-022-00527-1 "https://doi.org/10.1038/s41534-022-00527-1")
 
-![](/assets/img/stabilizing.PNG)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/stabilizing.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 News article featured on National University of Singapore Physics Department
 
