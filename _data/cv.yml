@@ -6,7 +6,7 @@
       year: 2022-2028
       description:
         - Nuh Gedik group, Condensed Matter Experiment (CMX) Division
-        - Employing ultrafast optical techniques to study quantum materials.
+        - Employing ultrafast terahertz spectroscopy techniques to study quantum materials.
     - title: Bachelor
       institution: University of Cambridge
       year: 2018-2021
@@ -46,7 +46,6 @@
     - year: 2021
       items: 
         - Burnett Prize, awarded by Hughes Hall (University of Cambridge)
-        - Matteucci Medal
     - year: 2017
       items: 
         - National Science Scholarship (NSS-BS), awarded by Agency for Science, Technology and Research, Singapore
@@ -57,14 +56,3 @@
     - title: Non-Hermitian physics
     - title: Quantum simulation
     - title: Condensed Matter physics
-      items: 
-        - Magnetic skyrmions
-        - Multiferroics
-        - Topological nodal semimetals
-        - Quantum spin liquids
-        - Strange metals
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Swing dancing, Archery, Running, etc
